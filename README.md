@@ -10,6 +10,7 @@ Node is required to run the application. To install the app run the following in
 npm install to download node modules
 node server.js to start the server and run the application
 
+
 ## Resources Utilized
 - bootstrap
 - MySQL Database
@@ -18,6 +19,7 @@ node server.js to start the server and run the application
 - node.js
 - eslint
 - passport
+- openweathermap for weather data (API call)
 
 ## Contributing/Questions
 - Carter Neal - [nealwc](https://github.com/nealwc)
